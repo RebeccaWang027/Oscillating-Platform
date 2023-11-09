@@ -1,2 +1,2 @@
-# Oscillating-Platform
-2023 Assignment 5.2: Oscillating Platform
+# Third-Person Platformer with Obstacles
+Assignment 5.5: Obstacles
